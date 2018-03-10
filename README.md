@@ -11,6 +11,6 @@ If you just want to ask a question, please use the github issue tracker.
 
 ## Course Structure
 
-01. Quick Start
+[01. Quick Start](https://github.com/jbrizio/trainings-angular/tree/master/class-01)
 
 [Visit our official site for more information](http://incluit.com/)
