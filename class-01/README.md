@@ -25,5 +25,5 @@ TypeScript is a superset of JavaScript, meaning that it contains all of the func
 ## [Node.js](https://nodejs.org/es/)
  It's an open source, a cross-platform runtime environment for developing server-side. Node.js also provides a rich library of various JavaScript modules which simplifies the development of web applications.
 
- ## [npm](https://www.npmjs.com)
+## [npm](https://www.npmjs.com)
 npm is a package manager. The main goal, as you name says, is an automated dependency and package management. This means that you can specify all of your project's dependencies inside your package.json file.
